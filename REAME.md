@@ -1,1 +1,1 @@
-This is a basic group website for HCMUS' class 23KTPM1's Web Development assignment.
+This is a basic group website for HCMUS' class 23KTPM1's Web Application Development assignment.
